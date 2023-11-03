@@ -1,6 +1,6 @@
 
         while (true) {
-            let numeroDNI = prompt("Por favor, ingrese el número de DNI (0-99999999):");
+            let numeroDNI = prompt("Ingrese su DNI (0-99999999):");
 
             
             if (numeroDNI === null) {
